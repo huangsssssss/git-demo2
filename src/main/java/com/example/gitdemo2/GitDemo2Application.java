@@ -11,6 +11,7 @@ public class GitDemo2Application {
         System.out.println("hello world 2");
         System.out.println("hello world 3");
         System.out.println("hello world hotfix");
+        System.out.println("hello world conflict(冲突代码)");
         SpringApplication.run(GitDemo2Application.class, args);
     }
 
